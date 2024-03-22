@@ -1,0 +1,1017 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:120]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[122:134]
+DEBUG:multipart.multipart:Calling on_header_value with data[136:146]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:583]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[639:658]
+DEBUG:multipart.multipart:Calling on_header_value with data[660:683]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[685:697]
+DEBUG:multipart.multipart:Calling on_header_value with data[699:718]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[722:765]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Generating response with file content and query:
+PROJECT:
+Title : HOSPITALITY ANALYSIS
+In this project I took an imaginary company. Now this company is a hotel chain in all over India. There are many types of hotels run by this company.
+Title : ODI WORLD CUP 2023 INDIAN CRICKET TEAM PREDICTION 
+Done EDA on the recent ODI series played by India, Analysing the performance of the bowler and batsman selection of the 11 players is done.
+Title : NYC TAXI DURATION PREDICTION  Engineered a robust linear regression model using the 2016 Yellow Cab dataset with 1.1 billion records to forecast taxi ride durations  in New York City.
+Give me project names without descriptions.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:120]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[122:134]
+DEBUG:multipart.multipart:Calling on_header_value with data[136:146]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:583]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[639:658]
+DEBUG:multipart.multipart:Calling on_header_value with data[660:683]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[685:697]
+DEBUG:multipart.multipart:Calling on_header_value with data[699:718]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[722:765]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+PROJECT:
+Title : HOSPITALITY ANALYSIS
+In this project I took an imaginary company. Now this company is a hotel chain in all over India. There are many types of hotels run by this company.
+Title : ODI WORLD CUP 2023 INDIAN CRICKET TEAM PREDICTION 
+Done EDA on the recent ODI series played by India, Analysing the performance of the bowler and batsman selection of the 11 players is done.
+Title : NYC TAXI DURATION PREDICTION  Engineered a robust linear regression model using the 2016 Yellow Cab dataset with 1.1 billion records to forecast taxi ride durations  in New York City.
+DEBUG:root:Query: Give me project names without descriptions.
+DEBUG:root:Generating response with file content and query:
+PROJECT:
+Title : HOSPITALITY ANALYSIS
+In this project I took an imaginary company. Now this company is a hotel chain in all over India. There are many types of hotels run by this company.
+Title : ODI WORLD CUP 2023 INDIAN CRICKET TEAM PREDICTION 
+Done EDA on the recent ODI series played by India, Analysing the performance of the bowler and batsman selection of the 11 players is done.
+Title : NYC TAXI DURATION PREDICTION  Engineered a robust linear regression model using the 2016 Yellow Cab dataset with 1.1 billion records to forecast taxi ride durations  in New York City.
+Give me project names without descriptions.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:120]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[122:134]
+DEBUG:multipart.multipart:Calling on_header_value with data[136:146]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:583]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[639:658]
+DEBUG:multipart.multipart:Calling on_header_value with data[660:683]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[685:697]
+DEBUG:multipart.multipart:Calling on_header_value with data[699:718]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[722:765]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+PROJECT:
+Title : HOSPITALITY ANALYSIS
+In this project I took an imaginary company. Now this company is a hotel chain in all over India. There are many types of hotels run by this company.
+Title : ODI WORLD CUP 2023 INDIAN CRICKET TEAM PREDICTION 
+Done EDA on the recent ODI series played by India, Analysing the performance of the bowler and batsman selection of the 11 players is done.
+Title : NYC TAXI DURATION PREDICTION  Engineered a robust linear regression model using the 2016 Yellow Cab dataset with 1.1 billion records to forecast taxi ride durations  in New York City.
+DEBUG:root:Query: Give me project names without descriptions.
+DEBUG:root:Generating response with file content and query:
+PROJECT:
+Title : HOSPITALITY ANALYSIS
+In this project I took an imaginary company. Now this company is a hotel chain in all over India. There are many types of hotels run by this company.
+Title : ODI WORLD CUP 2023 INDIAN CRICKET TEAM PREDICTION 
+Done EDA on the recent ODI series played by India, Analysing the performance of the bowler and batsman selection of the 11 players is done.
+Title : NYC TAXI DURATION PREDICTION  Engineered a robust linear regression model using the 2016 Yellow Cab dataset with 1.1 billion records to forecast taxi ride durations  in New York City.
+Give me project names without descriptions.
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #1: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: What is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+What is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: What is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+What is my name?
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #1: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: What is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+What is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: What is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+What is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[147:204]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[56:75]
+DEBUG:multipart.multipart:Calling on_header_value with data[77:100]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[102:114]
+DEBUG:multipart.multipart:Calling on_header_value with data[116:135]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[139:155]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: What is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+What is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: What is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+What is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[56:75]
+DEBUG:multipart.multipart:Calling on_header_value with data[77:100]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[102:114]
+DEBUG:multipart.multipart:Calling on_header_value with data[116:135]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[139:155]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: What is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+What is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: What is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+What is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: What is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+What is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: What is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+What is my name?
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #1: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: What is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+What is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: What is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+What is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: What is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+What is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: What is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+What is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: What is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+What is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:129]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[131:143]
+DEBUG:multipart.multipart:Calling on_header_value with data[145:160]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:118937]
+DEBUG:multipart.multipart:Calling on_part_data with data[0:2]
+DEBUG:multipart.multipart:Calling on_part_data with data[118939:164454]
+DEBUG:multipart.multipart:Calling on_part_data with data[0:2]
+DEBUG:multipart.multipart:Calling on_part_data with data[164456:164465]
+DEBUG:multipart.multipart:Calling on_part_data with data[0:2]
+DEBUG:multipart.multipart:Calling on_part_data with data[164467:164473]
+DEBUG:multipart.multipart:Calling on_part_data with data[0:2]
+DEBUG:multipart.multipart:Calling on_part_data with data[164475:164480]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[56:75]
+DEBUG:multipart.multipart:Calling on_header_value with data[77:100]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[102:114]
+DEBUG:multipart.multipart:Calling on_header_value with data[116:135]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[139:179]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:120]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[122:134]
+DEBUG:multipart.multipart:Calling on_header_value with data[136:146]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:583]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[56:75]
+DEBUG:multipart.multipart:Calling on_header_value with data[77:100]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[102:114]
+DEBUG:multipart.multipart:Calling on_header_value with data[116:135]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[139:179]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+PROJECT:
+Title : HOSPITALITY ANALYSIS
+In this project I took an imaginary company. Now this company is a hotel chain in all over India. There are many types of hotels run by this company.
+Title : ODI WORLD CUP 2023 INDIAN CRICKET TEAM PREDICTION 
+Done EDA on the recent ODI series played by India, Analysing the performance of the bowler and batsman selection of the 11 players is done.
+Title : NYC TAXI DURATION PREDICTION  Engineered a robust linear regression model using the 2016 Yellow Cab dataset with 1.1 billion records to forecast taxi ride durations  in New York City.
+DEBUG:root:Query: What are the project titles in this pdf?
+DEBUG:root:Generating response with file content and query:
+PROJECT:
+Title : HOSPITALITY ANALYSIS
+In this project I took an imaginary company. Now this company is a hotel chain in all over India. There are many types of hotels run by this company.
+Title : ODI WORLD CUP 2023 INDIAN CRICKET TEAM PREDICTION 
+Done EDA on the recent ODI series played by India, Analysing the performance of the bowler and batsman selection of the 11 players is done.
+Title : NYC TAXI DURATION PREDICTION  Engineered a robust linear regression model using the 2016 Yellow Cab dataset with 1.1 billion records to forecast taxi ride durations  in New York City.
+What are the project titles in this pdf?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:120]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[122:134]
+DEBUG:multipart.multipart:Calling on_header_value with data[136:146]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:583]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[639:658]
+DEBUG:multipart.multipart:Calling on_header_value with data[660:683]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[685:697]
+DEBUG:multipart.multipart:Calling on_header_value with data[699:718]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[722:762]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+PROJECT:
+Title : HOSPITALITY ANALYSIS
+In this project I took an imaginary company. Now this company is a hotel chain in all over India. There are many types of hotels run by this company.
+Title : ODI WORLD CUP 2023 INDIAN CRICKET TEAM PREDICTION 
+Done EDA on the recent ODI series played by India, Analysing the performance of the bowler and batsman selection of the 11 players is done.
+Title : NYC TAXI DURATION PREDICTION  Engineered a robust linear regression model using the 2016 Yellow Cab dataset with 1.1 billion records to forecast taxi ride durations  in New York City.
+DEBUG:root:Query: What are the project titles in this pdf?
+DEBUG:root:Generating response with file content and query:
+PROJECT:
+Title : HOSPITALITY ANALYSIS
+In this project I took an imaginary company. Now this company is a hotel chain in all over India. There are many types of hotels run by this company.
+Title : ODI WORLD CUP 2023 INDIAN CRICKET TEAM PREDICTION 
+Done EDA on the recent ODI series played by India, Analysing the performance of the bowler and batsman selection of the 11 players is done.
+Title : NYC TAXI DURATION PREDICTION  Engineered a robust linear regression model using the 2016 Yellow Cab dataset with 1.1 billion records to forecast taxi ride durations  in New York City.
+What are the project titles in this pdf?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt-3.5-turbo/resolve/main/config.json HTTP/1.1" 401 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[56:75]
+DEBUG:multipart.multipart:Calling on_header_value with data[77:100]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[102:114]
+DEBUG:multipart.multipart:Calling on_header_value with data[116:135]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[139:155]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Received prediction request with file and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Call #0: Generating response with file content and query:
+DEBUG:root:File Content:
+My name is dhyuthidhar
+I am studying in jain university.
+DEBUG:root:Query: what is my name?
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+what is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[56:75]
+DEBUG:multipart.multipart:Calling on_header_value with data[77:100]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[102:114]
+DEBUG:multipart.multipart:Calling on_header_value with data[116:135]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[139:155]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Call #1: Generating response with file content and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+what is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Call #1: Generating response with file content and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+what is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:212]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Call #1: Generating response with file content and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+what is my name?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[147:204]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[260:279]
+DEBUG:multipart.multipart:Calling on_header_value with data[281:304]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[306:318]
+DEBUG:multipart.multipart:Calling on_header_value with data[320:339]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[343:360]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Call #1: Generating response with file content and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+what is the time?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[113:132]
+DEBUG:multipart.multipart:Calling on_header_value with data[134:157]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[159:171]
+DEBUG:multipart.multipart:Calling on_header_value with data[173:192]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[196:213]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Call #2: Generating response with file content and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+what is the time?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[54:73]
+DEBUG:multipart.multipart:Calling on_header_value with data[75:117]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[119:131]
+DEBUG:multipart.multipart:Calling on_header_value with data[133:143]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[0:57]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[56:75]
+DEBUG:multipart.multipart:Calling on_header_value with data[77:100]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[102:114]
+DEBUG:multipart.multipart:Calling on_header_value with data[116:135]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[139:156]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:root:Call #1: Generating response with file content and query.
+DEBUG:root:Processing uploaded file...
+DEBUG:root:Generating response with file content and query:
+My name is dhyuthidhar
+I am studying in jain university.
+what is the time?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/config.json HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /gpt2/resolve/main/generation_config.json HTTP/1.1" 200 0

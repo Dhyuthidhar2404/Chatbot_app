@@ -1,0 +1,6 @@
+PROJECT:
+Title : HOSPITALITY ANALYSIS
+In this project I took an imaginary company. Now this company is a hotel chain in all over India. There are many types of hotels run by this company.
+Title : ODI WORLD CUP 2023 INDIAN CRICKET TEAM PREDICTION 
+Done EDA on the recent ODI series played by India, Analysing the performance of the bowler and batsman selection of the 11 players is done.
+Title : NYC TAXI DURATION PREDICTION  Engineered a robust linear regression model using the 2016 Yellow Cab dataset with 1.1 billion records to forecast taxi ride durations  in New York City.
